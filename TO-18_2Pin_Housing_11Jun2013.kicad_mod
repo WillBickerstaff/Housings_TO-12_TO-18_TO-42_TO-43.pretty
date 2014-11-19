@@ -14,7 +14,7 @@
   (fp_circle (center 0 0) (end 2.75 0) (layer F.SilkS) (width 0.2))
   (pad 2 thru_hole circle (at -1.27 0) (size 1.2 1.2) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole circle (at 1.27 0) (size 1.2 1.2) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
-  (model TO-12_TO-18_TO-43_TO-42_Housings_11Jun2013/TO-18_2Pin_Housing_Faktor03937_11Jun2013.wrl
+  (model TO-18_Housings_Wings3D_WRL_11Jun2013/TO-18_2Pin_Housing_Faktor03937_11Jun2013.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
